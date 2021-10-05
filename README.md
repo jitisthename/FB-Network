@@ -4,4 +4,5 @@ The repository for data and code for the manuscript titled:
 
 Our study uses big data from a smartphone app (Fishbrain) to reveal that recreational fishing trips create a dense network of lake connectivity that spans a continent and drives the spread of aquatic invasive species.
 
-This manuscript is under submission.
+STATUS:
+This manuscript is being submitted for publication 
