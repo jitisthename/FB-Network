@@ -8,10 +8,10 @@ This dataset uses spatial reference provided by the US Geological Society's Nati
 
 angler_pairs_edge_list_0614.csv. This file includes all of the connections made by anglers traveling to sites in the United States and parts of southern Canada. These connections were derived from raw data provided by Fishbrain and include catches recorded by users between the dates of January 1, 2011, and June 14, 2021. Raw data requests should be directed to Fishbrain. For more details on how the data were derived, please refer to the Materials & Methods section of the publication [IN REVIEW].
 
-anger_network_analysis.R This code runs the network analysis on the angler edge list using the igraph package in R.
+anger_network_analysis.R This code runs the network analysis on the angler edge list using the igraph package in R. This code is provided as-is.
 
 STATUS:
 This manuscript is in review for publication
 
 License
-The data in this repository are open access.
+The data in this repository are open access and hosted on Zenodo under DOI 
