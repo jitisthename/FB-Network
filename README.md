@@ -14,4 +14,4 @@ STATUS:
 This manuscript is in review for publication
 
 License
-The data in this repository are open access and hosted on Zenodo under DOI 
+The data in this repository are open access and hosted on Zenodo under DOI 10.5281/zenodo.6388121
